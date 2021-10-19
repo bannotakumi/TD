@@ -819,3 +819,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.19-01.07.09:389][664]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
 [2021.10.19-01.12.49:339][747]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
 [2021.10.19-01.15.35:691][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skybox_Mesh)
+[2021.10.19-01.25.11:535][ 25]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.19-01.35.31:687][201]LogSlate: Took 0.001851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2021.10.19-01.35.31:996][201]LogSlate: Took 0.309175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2021.10.19-01.35.32:061][201]LogSlate: Took 0.064975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
