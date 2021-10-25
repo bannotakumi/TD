@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 #IngnoreAdd
 Intermediate/
+Content/Developers/
+Content/Resources/
+Content/Resources!/GunSounds
+Content/Resources!/GunEffects
